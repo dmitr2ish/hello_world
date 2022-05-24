@@ -15,3 +15,5 @@ echo "Hello world in" $NAME
 echo  $NAME"-скрипты:начало "$LINK1
 echo "Как писать "$NAME"-скрипты надежно и безопасно: минимальный шаблон "$LINK2
 echo "Что такое "$NAME" / shell "$LINK3
+
+#спасибо Дима ты прекрасен
